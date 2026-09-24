@@ -1,0 +1,6 @@
+#!/Users/at/GitHub_Mac/ClimateChangeAI/hurricane-wind-var/climate_venv/bin/python3.12
+import sys
+from SALib.scripts.salib import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())

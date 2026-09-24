@@ -22,5 +22,5 @@ h5py==3.16.0
 tables==3.10.2
 scikit-learn==1.6.1
 codecarbon==2.5.1
-gdal==3.8.4
+gdal==3.13.3
 scipy==1.16.3
